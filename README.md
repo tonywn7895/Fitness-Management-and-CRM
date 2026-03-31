@@ -56,7 +56,6 @@ cd Fitness-Management-and-CRM
 **2. Setup backend**
 ```bash
 cd backend
-composer install
 cp .env.example .env
 ```
 
